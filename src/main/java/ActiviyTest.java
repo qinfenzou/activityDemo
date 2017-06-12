@@ -97,4 +97,9 @@ public class ActiviyTest {
 		 // .count();//返回结果集数量
         // .listPage(firstResult, maxResults);//分页查询
 	}
+	
+   //测试一下修改后.提交至github
+	public void printConsolse(){
+		System.out.println("调教！");
+	}
 }
