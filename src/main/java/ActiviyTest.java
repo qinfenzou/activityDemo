@@ -101,5 +101,6 @@ public class ActiviyTest {
    //测试一下修改后.提交至github
 	public void printConsolse(){
 		System.out.println("调教！");
+		System.out.println("在slave分支中进行了一次调教");
 	}
 }
